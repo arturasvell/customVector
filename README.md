@@ -6,7 +6,7 @@
 4. Jų egzamino rezultatus
 Iš šių duomenų programa apskaičiuoja **medianą** arba **vidurkį** (*pasirinktinai*) bei išveda duomenis į ekraną
 # Kas pridėta
-Nauja Vec klasė, sukonstruota pagal std::vector ir turinti visą standartinės bibliotekos vektoriaus funkcionalumą.
+Nauja Vec klasė, sukonstruota pagal std::vector ir turinti visą standartinės bibliotekos vektoriaus funkcionalumą. Su Vec klase atlikti visi programos veiksmai - read, sort, write ir t.t.
 # Rezultatai
 ![Image1](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_22.png)
 ![Image2](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_23.png)
