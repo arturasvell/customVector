@@ -8,7 +8,7 @@ Iš šių duomenų programa apskaičiuoja **medianą** arba **vidurkį** (*pasir
 # Kas pridėta
 Nauja Vec klasė, sukonstruota pagal std::vector ir turinti visą standartinės bibliotekos vektoriaus funkcionalumą.
 # Rezultatai
-
+![Image1](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_22.png)
 # Releasai
 - **1.0v** lyginamas custom ir STD vektoriaus darbas
 # Programos kompiliavimo gidas (LINUX)
