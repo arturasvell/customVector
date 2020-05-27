@@ -1,4 +1,4 @@
-# customVector
+# Custom Vector
 Ši programa custom Vector klasėje saugo duomenis apie mokinius:
 1. Jų vardą;
 2. Jų pavardę;
