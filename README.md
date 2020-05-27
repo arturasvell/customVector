@@ -11,10 +11,10 @@ Nauja Vec klasė, sukonstruota pagal std::vector ir turinti visą standartinės 
 ![Image1](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_22.png)
 ![Image2](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_23.png)
 # Doxygen
-![Image3](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_24.png)
-![Image4](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_25.png)
-![Image5](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_26.png)
-![Image6](https://github.com/arturasvell/customVector/blob/v1.1/Screenshot_27.png)
+![Image3](https://github.com/arturasvell/customVector/blob/v1.2/Screenshot_24.png)
+![Image4](https://github.com/arturasvell/customVector/blob/v1.2/Screenshot_25.png)
+![Image5](https://github.com/arturasvell/customVector/blob/v1.2/Screenshot_26.png)
+![Image6](https://github.com/arturasvell/customVector/blob/v1.2/Screenshot_27.png)
 # Releasai
 - **1.0v** lyginamas custom ir STD vektoriaus darbas
 # Programos kompiliavimo gidas (LINUX)
